@@ -1,0 +1,14 @@
+DONE: choose 5 letters, will be revealed afterwards, costs 3 tries
+: choose 5 letters, will be reveleaed afterwards, costs up to 4 tries
+: reveal all vowels, costs 3
+: reveals 1 obscure letter if exists, costs 2 tries (show all of 1 letter that is unusual in the english language)
+: get what it rhymes with or vague definition or category of word, 3 letters
+: temporarily show correct letters and don't show permanently
+: can tell you which letters exist but not how many or where
+: can only guess letters in the first half or the second half of the alphabet
+: guess all 7 letters then be told where they are
+: guess words only with given clues6
+
+build a perfect hangman solver using perfect guessing theory!
+hangman powerup: tells u count of unique letters in this word, costs 1
+tells u length? so length is unkown in the beginning? 
